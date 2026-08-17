@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1420"/>
+      <stop offset="100%" stop-color="#141f30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4f8fff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <line x1="425" y1="159" x2="472" y2="159" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="472" cy="159" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="440" y1="88" x2="440" y2="153" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="440" cy="153" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="651" y1="178" x2="707" y2="178" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="707" cy="178" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="279" y1="211" x2="279" y2="279" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="279" cy="279" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="59" y1="87" x2="59" y2="186" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="59" cy="186" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="368" y1="5" x2="368" y2="77" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="368" cy="77" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="556" y1="252" x2="631" y2="252" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="631" cy="252" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="227" y1="317" x2="275" y2="317" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="275" cy="317" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="549" y1="324" x2="549" y2="391" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="549" cy="391" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="67" y1="201" x2="151" y2="201" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="151" cy="201" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="708" y1="208" x2="758" y2="208" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="758" cy="208" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="200" y1="378" x2="308" y2="378" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="308" cy="378" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="309" y1="275" x2="369" y2="275" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="369" cy="275" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="266" y1="238" x2="266" y2="320" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="266" cy="320" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="638" y1="69" x2="740" y2="69" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="740" cy="69" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="219" y1="27" x2="219" y2="58" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="219" cy="58" r="3" fill="#4f8fff" opacity="0.5"/>
+  <rect x="0" y="0" width="800" height="450" fill="none" stroke="#22303f" stroke-width="2"/>
+  <g transform="translate(400.0,195.0)" text-anchor="middle">
+    <circle r="46" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.9"/>
+    <text y="16" font-family="'JetBrains Mono', monospace" font-size="34" fill="#e8eef7" text-anchor="middle">⚙</text>
+  </g>
+  <text x="400.0" y="280.0" font-family="'Space Grotesk', sans-serif" font-size="26" font-weight="700" fill="#e8eef7" text-anchor="middle">Vehicle Access System</text>
+  <text x="400.0" y="309.0" font-family="'JetBrains Mono', monospace" font-size="15" fill="#8fa1bd" text-anchor="middle">Arduino Mega + ESP32</text>
+  <text x="24" y="430" font-family="'JetBrains Mono', monospace" font-size="13" fill="#4f8fff" opacity="0.7">placeholder image — replace me</text>
+</svg>

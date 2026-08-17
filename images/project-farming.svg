@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1420"/>
+      <stop offset="100%" stop-color="#141f30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4f8fff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <line x1="137" y1="291" x2="137" y2="329" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="137" cy="329" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="507" y1="389" x2="507" y2="450" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="507" cy="450" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="214" y1="48" x2="306" y2="48" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="306" cy="48" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="443" y1="311" x2="443" y2="341" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="443" cy="341" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="738" y1="410" x2="797" y2="410" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="797" cy="410" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="31" y1="11" x2="64" y2="11" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="64" cy="11" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="702" y1="110" x2="786" y2="110" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="786" cy="110" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="782" y1="224" x2="800" y2="224" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="800" cy="224" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="236" y1="346" x2="236" y2="404" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="236" cy="404" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="22" y1="213" x2="123" y2="213" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="123" cy="213" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="644" y1="370" x2="711" y2="370" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="711" cy="370" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="738" y1="364" x2="738" y2="450" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="738" cy="450" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="310" y1="145" x2="310" y2="250" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="310" cy="250" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="603" y1="436" x2="603" y2="450" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="603" cy="450" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="761" y1="408" x2="761" y2="450" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="761" cy="450" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="375" y1="280" x2="375" y2="399" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="375" cy="399" r="2" fill="#4f8fff" opacity="0.5"/>
+  <rect x="0" y="0" width="800" height="450" fill="none" stroke="#22303f" stroke-width="2"/>
+  <g transform="translate(400.0,195.0)" text-anchor="middle">
+    <circle r="46" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.9"/>
+    <text y="16" font-family="'JetBrains Mono', monospace" font-size="34" fill="#e8eef7" text-anchor="middle">⚘</text>
+  </g>
+  <text x="400.0" y="280.0" font-family="'Space Grotesk', sans-serif" font-size="26" font-weight="700" fill="#e8eef7" text-anchor="middle">Smart Farming Assistant</text>
+  <text x="400.0" y="309.0" font-family="'JetBrains Mono', monospace" font-size="15" fill="#8fa1bd" text-anchor="middle">HTML · CSS · Tailwind</text>
+  <text x="24" y="430" font-family="'JetBrains Mono', monospace" font-size="13" fill="#4f8fff" opacity="0.7">placeholder image — replace me</text>
+</svg>

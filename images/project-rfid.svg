@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1420"/>
+      <stop offset="100%" stop-color="#141f30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4f8fff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <line x1="795" y1="318" x2="795" y2="350" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="795" cy="350" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="198" y1="173" x2="198" y2="238" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="198" cy="238" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="269" y1="9" x2="269" y2="52" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="269" cy="52" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="773" y1="372" x2="773" y2="412" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="773" cy="412" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="285" y1="123" x2="285" y2="243" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="285" cy="243" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="131" y1="191" x2="131" y2="305" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="131" cy="305" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="704" y1="333" x2="798" y2="333" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="798" cy="333" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="99" y1="39" x2="184" y2="39" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="184" cy="39" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="58" y1="276" x2="105" y2="276" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="105" cy="276" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="450" y1="130" x2="511" y2="130" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="511" cy="130" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="691" y1="275" x2="744" y2="275" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="744" cy="275" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="519" y1="371" x2="519" y2="450" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="519" cy="450" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="528" y1="396" x2="595" y2="396" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="595" cy="396" r="3" fill="#4f8fff" opacity="0.5"/>
+<line x1="161" y1="15" x2="161" y2="60" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="161" cy="60" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="129" y1="13" x2="129" y2="130" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="129" cy="130" r="2" fill="#4f8fff" opacity="0.5"/>
+<line x1="737" y1="165" x2="792" y2="165" stroke="#4f8fff" stroke-width="1.5" opacity="0.35"/>
+<circle cx="792" cy="165" r="3" fill="#4f8fff" opacity="0.5"/>
+  <rect x="0" y="0" width="800" height="450" fill="none" stroke="#22303f" stroke-width="2"/>
+  <g transform="translate(400.0,195.0)" text-anchor="middle">
+    <circle r="46" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.9"/>
+    <text y="16" font-family="'JetBrains Mono', monospace" font-size="34" fill="#e8eef7" text-anchor="middle">▧</text>
+  </g>
+  <text x="400.0" y="280.0" font-family="'Space Grotesk', sans-serif" font-size="26" font-weight="700" fill="#e8eef7" text-anchor="middle">RFID Access Control</text>
+  <text x="400.0" y="309.0" font-family="'JetBrains Mono', monospace" font-size="15" fill="#8fa1bd" text-anchor="middle">ESP32 · RC522 · IoT</text>
+  <text x="24" y="430" font-family="'JetBrains Mono', monospace" font-size="13" fill="#4f8fff" opacity="0.7">placeholder image — replace me</text>
+</svg>
