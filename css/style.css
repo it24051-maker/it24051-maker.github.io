@@ -421,19 +421,4 @@ p { margin: 0 0 1em; color: var(--text-secondary); }
   .section-inner { padding: 72px 20px; }
 }
 
-.profile-only {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-}
-
-.profile-only .profile-image {
-  width: 160px;
-  height: 160px;
-  object-fit: cover;
-  border-radius: 12px;
-  border: 3px solid #19b5fe;
-  box-shadow: 0 0 20px rgba(25, 181, 254, 0.35);
-}
 
