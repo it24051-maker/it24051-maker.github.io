@@ -13,14 +13,27 @@
 <link rel="stylesheet" href="css/style.css">
 
 <style>
-.profile-image {
-  width: 64px;
-  height: 64px;
+.profile-only-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.profile-only {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-only .profile-image {
+  width: 180px;
+  height: 180px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 14px;
   display: block;
-  border: 2px solid #19b5fe;
-  box-shadow: 0 0 18px rgba(25,181,254,.35);
+  border: 3px solid #19b5fe;
+  box-shadow: 0 0 20px rgba(25, 181, 254, 0.35);
 }
 </style>
 </head>
@@ -82,7 +95,7 @@
             Download Resume
           </a>
           <a href="#projects" class="btn btn-ghost">View Projects</a>
-          <a href="https://github.com/it24051-maker" class="btn btn-ghost" target="_blank" rel="noopener">
+          <a href="https://github.com/your-github-username" class="btn btn-ghost" target="_blank" rel="noopener">
             GitHub
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M7 7h10v10"/></svg>
           </a>
@@ -103,16 +116,9 @@
             <span class="term-title">shawon@mbstu&nbsp;~&nbsp;whoami</span>
           </div>
           <div class="term-body">
-            <div class="term-avatar-row">
-              <div class="avatar-frame">
-                <!-- PLACEHOLDER PHOTO: replace images/avatar-placeholder.svg with a real headshot -->
-                <img src="images/profile.jpeg" alt="Shawon profile photo" class="profile-image">
-              </div>
-              <div class="term-fields">
-                <p><span class="field-key">name</span><span class="field-val">Shawon</span></p>
-                <p><span class="field-key">role</span><span class="field-val">ICT Undergraduate</span></p>
-                <p><span class="field-key">uni</span><span class="field-val">MBSTU, Bangladesh</span></p>
-                <p><span class="field-key">status</span><span class="field-val status-ok">● open to opportunities</span></p>
+            <div class="term-avatar-row profile-only-row">
+              <div class="avatar-frame profile-only">
+                <img src="images/profile.jpeg" alt="Shawon" class="profile-image">
               </div>
             </div>
             <p class="term-line"><span class="prompt">$</span> cat interests.txt</p>
@@ -281,7 +287,7 @@
               <span class="chip chip-sm">Maven</span>
               <span class="chip chip-sm">Tomcat</span>
             </div>
-            <a href="https://github.com/it24051-maker/Quiz_game_javaproject" class="project-link" target="_blank" rel="noopener">
+            <a href="https://github.com/your-github-username/Quiz_game_javaproject" class="project-link" target="_blank" rel="noopener">
               GitHub
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M7 7h10v10"/></svg>
             </a>
@@ -306,7 +312,7 @@
               <span class="chip chip-sm">RFID</span>
               <span class="chip chip-sm">Wokwi</span>
             </div>
-            <a href="https://github.com/it24051-maker/smart-vehicle-access-system" class="project-link" target="_blank" rel="noopener">
+            <a href="https://github.com/your-github-username/smart-vehicle-access-system" class="project-link" target="_blank" rel="noopener">
               GitHub
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M7 7h10v10"/></svg>
             </a>
@@ -330,7 +336,7 @@
               <span class="chip chip-sm">I2C LCD</span>
               <span class="chip chip-sm">Servo</span>
             </div>
-            <a href="https://github.com/it24051-maker/rfid-vehicle-access" class="project-link" target="_blank" rel="noopener">
+            <a href="https://github.com/your-github-username/rfid-vehicle-access" class="project-link" target="_blank" rel="noopener">
               GitHub
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M7 7h10v10"/></svg>
             </a>
@@ -354,7 +360,7 @@
               <span class="chip chip-sm">Tailwind CSS</span>
               <span class="chip chip-sm">Django (proposed)</span>
             </div>
-            <a href="https://github.com/it24051-maker/smart-farming-assistant" class="project-link" target="_blank" rel="noopener">
+            <a href="https://github.com/your-github-username/smart-farming-assistant" class="project-link" target="_blank" rel="noopener">
               GitHub
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M7 7h10v10"/></svg>
             </a>
@@ -377,7 +383,7 @@
               <span class="chip chip-sm">DSA</span>
               <span class="chip chip-sm">Dynamic Programming</span>
             </div>
-            <a href="https://github.com/it24051-maker/competitive-programming" class="project-link" target="_blank" rel="noopener">
+            <a href="https://github.com/your-github-username/competitive-programming" class="project-link" target="_blank" rel="noopener">
               GitHub
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M7 7h10v10"/></svg>
             </a>
@@ -399,7 +405,7 @@
       </p>
 
       <div class="contact-grid reveal" style="--delay:80ms">
-        <a class="contact-card" href="mailto:shawonali1127@gmail.com">
+        <a class="contact-card" href="shawonali1127@gmail.com">
           <span class="contact-label">Email</span>
           <span class="contact-value">shawonali1127@gmail.com</span>
         </a>
@@ -407,7 +413,7 @@
           <span class="contact-label">GitHub</span>
           <span class="contact-value">it24051-maker</span>
         </a>
-        <a class="contact-card" href="https://www.linkedin.com/in/md-shawon-ali/" target="_blank" rel="noopener">
+        <a class="contact-card" href="https://linkedin.com/in/MD Shawon Ali" target="_blank" rel="noopener">
           <span class="contact-label">LinkedIn</span>
           <span class="contact-value">linkedin.com/in/MD Shawon Ali</span>
         </a>
